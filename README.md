@@ -1,0 +1,11 @@
+# better-roblox-dynamic-faces
+i improved robloxs poop out of a toilet dynamic faces with py thon
+
+# how does it work:
+it uses googles mediapipe to track the landmarks (lets just call it points) on your face, and detects what your face looks like based of that
+then it make server and a tunnel because like when you directly use the server without a tunnel it would work in roblox studio but when published wont work cuz roblox will search its own servers and everything will be messed up
+
+# how use
+press setup.bat to set it up (pretty important, do this before run!)
+
+then press run.bat whenever you like to run it, also dont worry about the warnings (they look like there bad but they really do nothing)
