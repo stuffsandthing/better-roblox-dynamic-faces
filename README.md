@@ -9,3 +9,8 @@ then it make server and a tunnel because like when you directly use the server w
 press setup.bat to set it up (pretty important, do this before run!)
 
 then press run.bat whenever you like to run it, also dont worry about the warnings (they look like there bad but they really do nothing)
+
+put in your given url into url bar and done hooray
+
+# oh yea and btw
+i forgot to mention, if you are the developer of the game you need to use this: https://create.roblox.com/store/asset/109657620552137/Better-Dynamic-Faces
