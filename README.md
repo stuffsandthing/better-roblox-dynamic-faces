@@ -1,3 +1,4 @@
+[![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
 # better-roblox-dynamic-faces
 i improved robloxs poop out of a toilet dynamic faces with py thon
 
