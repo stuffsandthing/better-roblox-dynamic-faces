@@ -9,11 +9,15 @@ then it make server and a tunnel because like when you directly use the server w
 # how use
 down load the latest release (if you havent already)
 
-press the exe file you just downloaded
+press the exe file you just downloaded (it will take a while the first time for some stupid reason)
 
 then go to a game that supports this repository (none i have seen so far, go use [this](#oh-yeah-and-btw) so you can make one yourself!)
 
 put in your given url into url bar, press begin, and done hooray (later on some games might use different ui so uhh thats not gud)
+
+# also
+
+this repo might get updated
 
 # oh yea and btw
 i forgot to mention, if you are the developer of the game you need to use this: https://create.roblox.com/store/asset/109657620552137/Better-Dynamic-Faces
