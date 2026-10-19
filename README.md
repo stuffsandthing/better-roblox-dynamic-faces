@@ -11,7 +11,7 @@ down load the latest release (if you havent already)
 
 press the exe file you just downloaded (it will take a while the first time for some stupid reason)
 
-then go to a game that supports this repository (none i have seen so far, go use [this](#oh-yeah-and-btw) so you can make one yourself!)
+then go to a game that supports this repository (none i have seen so far, go use [this](https://create.roblox.com/store/asset/109657620552137/Better-Dynamic-Faces) so you can make one yourself!)
 
 put in your given url into url bar, press begin, and done hooray (later on some games might use different ui so uhh thats not gud)
 
