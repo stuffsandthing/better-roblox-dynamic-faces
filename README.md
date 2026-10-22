@@ -1,6 +1,9 @@
+
 [![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
 # better-roblox-dynamic-faces
 i improved robloxs poop out of a toilet dynamic faces with py thon
+
+<img width="1280" height="720" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/4fb4b933-74db-4ca6-b0fa-8897b1ab28c4" />
 
 # how does it work:
 it uses googles mediapipe to track the landmarks (lets just call it points) on your face, and detects what your face looks like based of that
